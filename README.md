@@ -32,7 +32,7 @@ If you encounter access issues due to tenant restrictions, please refer to the a
 
 ## ✅ Certification
 
-I recently earned the **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**, reinforcing my skills in data modeling, storytelling with data, and DAX optimization.
+**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**, reinforcing my skills in data modeling, storytelling with data, and DAX optimization.
 
 ## 📬 Contact
 
