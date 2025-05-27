@@ -1,10 +1,10 @@
-# Parking Pattern Analysis Dashboard – University of Iowa
+# Parking Access and Utilization Dashboard
 
-This interactive dashboard was developed as part of the evaluation for the **Business Intelligence Analyst** position at **Finance and Business Information Services (FBIS), University of Iowa**.
+This interactive dashboard was developed to analyze and visualize parking access trends, usage patterns, and peak occupancy in support of data-driven decision-making **.
 
 ## 📊 Overview
 
-The dashboard analyzes parking access and utilization patterns based on transaction data from January 2021 to April 2025. It helps identify:
+The dashboard analyzes parking access and utilization patterns based on transaction data from 2019 to 2025. It helps identify:
 
 - **Total transactions** and **unique card users**
 - **Peak lot usage trends** across years
