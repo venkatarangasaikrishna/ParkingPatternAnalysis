@@ -8,8 +8,13 @@ The dashboard analyzes parking access and utilization patterns based on transact
 
 - **Total transactions** and **unique card users**
 - **Peak lot usage trends** across years
-- **Top access groups by volume**
+- **Top 10 access groups by volume**
 - **Overnight usage patterns**
+- **Highest Peak Value during the whole period**
+- **Average Duration of Stay**
+- **Percentage of Unknown Groups**
+- **Percentage of Overnight Transactions**
+- **Top 5 Busiest Lots**
 - **Forecasted peak occupancy** for remaining months of 2025
 
 A downloadable **PDF snapshot** is also included for accessibility and quick review.
