@@ -23,7 +23,6 @@ If you encounter access issues due to tenant restrictions, please refer to the a
 ## 📁 Files Included
 
 - `ParkingPatternAnalysis.pdf` – Visual overview of the Power BI report
-- `Data Practice Instructions.docx` – Original project brief and data context
 
 ## 🛠 Tools Used
 
